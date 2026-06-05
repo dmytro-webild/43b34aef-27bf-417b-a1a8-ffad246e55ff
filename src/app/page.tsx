@@ -61,7 +61,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/real-professional-smiling-businesswoman-looking-confident-determined-face-expression-standing-suit-white-background_1258-122910.jpg",          imageAlt: "professional male portrait smiling"},
         {
           name: "Sarah M.",          handle: "@localbiz",          testimonial: "Our business relies on functional plumbing, and Epley Plumbing delivers every time. Their commercial service is unmatched.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/some-barbells-gym_23-2147671941.jpg?_wi=1",          imageAlt: "professional male portrait smiling"},
+          imageSrc: "http://img.b2bpic.net/free-photo/professional-male-portrait-smiling_23-2147671932.jpg",          imageAlt: "professional male portrait smiling"},
         {
           name: "David L.",          handle: "@satisfiedclient",          testimonial: "Honest pricing and excellent work. They clearly explained the water heater repair process and finished quickly. Highly recommend!",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-waitress_107420-12307.jpg",          imageAlt: "professional male portrait smiling"},
@@ -81,7 +81,7 @@ export default function LandingPage() {
       ]}
       avatars={[
         {
-          src: "http://img.b2bpic.net/free-photo/some-barbells-gym_23-2147671941.jpg",          alt: "Customer 1"},
+          src: "http://img.b2bpic.net/free-photo/professional-male-portrait-smiling_23-2147671932.jpg",          alt: "Happy Customer"},
         {
           src: "http://img.b2bpic.net/free-photo/portrait-smiling-waitress_107420-12307.jpg",          alt: "Customer 2"},
         {
@@ -92,8 +92,8 @@ export default function LandingPage() {
           src: "http://img.b2bpic.net/free-photo/happy-young-businessman-walking-near-business-center_171337-19784.jpg",          alt: "Customer 5"}
       ]}
       avatarText="See what our customers say"
-      imageSrc="http://img.b2bpic.net/free-photo/some-barbells-gym_23-2147671941.jpg?_wi=2"
-      imageAlt="Epley Plumbing Co. service van parked in Gastonia, NC"
+      imageSrc="http://img.b2bpic.net/free-photo/technician-checking-heating-system-boiler-room_169016-55519.jpg"
+      imageAlt="Plumber repairing a leaky pipe"
       showDimOverlay={true}
       showBlur={true}
       textPosition="bottom"
