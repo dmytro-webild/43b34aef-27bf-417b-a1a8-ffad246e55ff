@@ -43,7 +43,7 @@ export default function LandingPage() {
         {
           name: "FAQ",          id: "#faq"},
         {
-          name: "Contact",          id: "#contact"},
+          name: "Contact",          id: "#contact"}
       ]}
       brandName="Epley Plumbing Co."
       button={{
@@ -70,14 +70,14 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1613.jpg",          imageAlt: "professional male portrait smiling"},
         {
           name: "Michael B.",          handle: "@happycustomer",          testimonial: "We had a tricky leak, but the technicians at Epley Plumbing located and fixed it quickly. Very impressed with their expertise.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-woman-home_23-2150062545.jpg",          imageAlt: "professional male portrait smiling"},
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-woman-home_23-2150062545.jpg",          imageAlt: "professional male portrait smiling"}
       ]}
       tag="Trusted Local Plumbers"
       buttons={[
         {
           text: "Request Service",          href: "#contact"},
         {
-          text: "Call Now",          href: "tel:+17045551234"},
+          text: "Call Now",          href: "tel:+17045551234"}
       ]}
       avatars={[
         {
@@ -89,7 +89,7 @@ export default function LandingPage() {
         {
           src: "http://img.b2bpic.net/free-photo/front-view-smiley-woman-home_23-2150062545.jpg",          alt: "Customer 4"},
         {
-          src: "http://img.b2bpic.net/free-photo/happy-young-businessman-walking-near-business-center_171337-19784.jpg",          alt: "Customer 5"},
+          src: "http://img.b2bpic.net/free-photo/happy-young-businessman-walking-near-business-center_171337-19784.jpg",          alt: "Customer 5"}
       ]}
       avatarText="See what our customers say"
       imageSrc="http://img.b2bpic.net/free-photo/some-barbells-gym_23-2147671941.jpg"
@@ -116,7 +116,7 @@ export default function LandingPage() {
         {
           tag: "Service",          title: "Pipe Repair & Replacement",          subtitle: "Durable solutions for old or damaged pipes",          description: "From minor pipe repairs to complete re-piping, we ensure your plumbing system is robust and free from future issues.",          imageSrc: "http://img.b2bpic.net/free-photo/cheese-industry-interior-production-hard-cheese-background_645730-198.jpg",          imageAlt: "New copper pipes installed in a wall"},
         {
-          tag: "Service",          title: "Emergency Plumbing Services",          subtitle: "24/7 rapid response for urgent issues",          description: "Plumbing emergencies can't wait. Our team is on call for rapid response to urgent issues like burst pipes or severe clogs.",          imageSrc: "http://img.b2bpic.net/free-photo/scene-with-photorealistic-logistics-operations-proceedings_23-2151468854.jpg",          imageAlt: "Plumber working on an emergency at night"},
+          tag: "Service",          title: "Emergency Plumbing Services",          subtitle: "24/7 rapid response for urgent issues",          description: "Plumbing emergencies can't wait. Our team is on call for rapid response to urgent issues like burst pipes or severe clogs.",          imageSrc: "http://img.b2bpic.net/free-photo/scene-with-photorealistic-logistics-operations-proceedings_23-2151468854.jpg",          imageAlt: "Plumber working on an emergency at night"}
       ]}
       title="Comprehensive Plumbing Solutions"
       description="From leaky faucets to major installations, our expert team provides a full range of services to keep your plumbing running smoothly and efficiently."
@@ -128,7 +128,6 @@ export default function LandingPage() {
       useInvertedBackground={false}
       tag="Local Expertise"
       title="Why Choose Epley Plumbing Co.?"
-      description="As a local, family-owned business, Epley Plumbing Co. has proudly served Gastonia and surrounding communities for years. We combine experienced craftsmanship with honest practices, ensuring you receive the best service every time. Our commitment is to fast responses, transparent pricing, and lasting solutions for all your plumbing needs. We're not just plumbers; we're your neighbors and dedicated to your satisfaction."
     />
   </div>
 
@@ -148,7 +147,7 @@ export default function LandingPage() {
         {
           src: "http://img.b2bpic.net/free-photo/smiley-professional-businesswoman-with-glasses-presentation_23-2148824824.jpg",          alt: "Client Photo 4"},
         {
-          src: "http://img.b2bpic.net/free-photo/waist-up-shot-successful-delighted-good-looking-young-male-with-blue-eyes-beard-smiling-satisfied-as-holding-hands-crossed-chest-being-self-satisfied-achieving-good-income-grey-wall_176420-43212.jpg",          alt: "Client Photo 5"},
+          src: "http://img.b2bpic.net/free-photo/waist-up-shot-successful-delighted-good-looking-young-male-with-blue-eyes-beard-smiling-satisfied-as-holding-hands-crossed-chest-being-self-satisfied-achieving-good-income-grey-wall_176420-43212.jpg",          alt: "Client Photo 5"}
       ]}
       ratingAnimation="slide-up"
       avatarsAnimation="slide-up"
@@ -173,7 +172,7 @@ export default function LandingPage() {
         {
           id: "bessemer-city",          name: "Bessemer City, NC",          price: "Local Service",          variant: "Bessemer City",          imageSrc: "http://img.b2bpic.net/free-photo/roosevelt-island_649448-4645.jpg",          imageAlt: "Bessemer City North Carolina park"},
         {
-          id: "more-areas",          name: "And More!",          price: "Check Availability",          variant: "Contact Us",          imageSrc: "http://img.b2bpic.net/free-photo/aerial-view-luxury-tropical-resort-with-red-roofs-phuket-thailand_1308-189271.jpg",          imageAlt: "Map pointer over Gastonia area"},
+          id: "more-areas",          name: "And More!",          price: "Check Availability",          variant: "Contact Us",          imageSrc: "http://img.b2bpic.net/free-photo/aerial-view-luxury-tropical-resort-with-red-roofs-phuket-thailand_1308-189271.jpg",          imageAlt: "Map pointer over Gastonia area"}
       ]}
       title="Proudly Serving Gastonia & Beyond"
       description="Our dedicated team extends expert plumbing services across Gastonia, NC, and the vibrant communities in its vicinity. If you're in any of these areas, we're just a call away for prompt and reliable service!"
@@ -193,7 +192,8 @@ export default function LandingPage() {
         {
           id: "faq-4",          title: "Are your technicians licensed and insured?",          content: "Absolutely. All our technicians are fully licensed, insured, and undergo continuous training to provide the highest quality and safest plumbing services."},
         {
-          id: "faq-5",          title: "Can I get an online estimate?",          content: "While complex issues require an on-site assessment, you can request an initial estimate or consultation through our contact form or by calling us directly. We're happy to discuss your needs."},
+          id: "faq-5",          title: "Can I get an online estimate?",          content: "While complex issues require an on-site assessment, you can request an initial estimate or consultation through our contact form or by calling us directly. We're happy to discuss your needs."
+        }
       ]}
       sideTitle="Frequently Asked Questions"
       sideDescription="Have questions about our plumbing services, pricing, or emergency availability? Find quick answers here or contact us directly for personalized assistance from our expert team."
@@ -214,7 +214,7 @@ export default function LandingPage() {
         {
           text: "Call Us: (704) 555-1234",          href: "tel:+17045551234"},
         {
-          text: "Request an Estimate Online",          href: "mailto:info@epleyplumbing.com"},
+          text: "Request an Estimate Online",          href: "mailto:info@epleyplumbing.com"}
       ]}
     />
   </div>
@@ -234,8 +234,8 @@ export default function LandingPage() {
             {
               label: "Leak Detection",              href: "#services"},
             {
-              label: "Emergency Service",              href: "#services"},
-          ],
+              label: "Emergency Service",              href: "#services"}
+          ]
         },
         {
           title: "Company",          items: [
@@ -248,17 +248,17 @@ export default function LandingPage() {
             {
               label: "FAQ",              href: "#faq"},
             {
-              label: "Contact",              href: "#contact"},
-          ],
+              label: "Contact",              href: "#contact"}
+          ]
         },
         {
           title: "Connect",          items: [
             {
               label: "Facebook",              href: "#"},
             {
-              label: "Google Reviews",              href: "#"},
-          ],
-        },
+              label: "Google Reviews",              href: "#"}
+          ]
+        }
       ]}
       copyrightText="© 2024 Epley Plumbing Co. All rights reserved."
       onPrivacyClick={() => alert('Privacy Policy Clicked')}
