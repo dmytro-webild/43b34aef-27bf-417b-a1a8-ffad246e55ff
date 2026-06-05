@@ -77,7 +77,7 @@ export default function LandingPage() {
         {
           text: "Request Service",          href: "#contact"},
         {
-          text: "Call Now",          href: "tel:+17045551234"}
+          text: "Call Now",          href: "tel:+17048644007"}
       ]}
       avatars={[
         {
@@ -127,7 +127,7 @@ export default function LandingPage() {
       <TextAbout
       useInvertedBackground={false}
       tag="Local Expertise"
-      title="Why Choose Epley Plumbing Co.?"
+      title="Why Choose Epley Plumbing Co."
     />
   </div>
 
@@ -212,7 +212,7 @@ export default function LandingPage() {
       description="Don't let a plumbing problem disrupt your day. Contact Epley Plumbing Co. for fast, reliable service or to schedule your next appointment. We're available Monday to Friday, 8 AM - 5 PM."
       buttons={[
         {
-          text: "Call Us: (704) 555-1234",          href: "tel:+17045551234"},
+          text: "Call Us: (704) 864-4007",          href: "tel:+17048644007"},
         {
           text: "Request an Estimate Online",          href: "mailto:info@epleyplumbing.com"}
       ]}
