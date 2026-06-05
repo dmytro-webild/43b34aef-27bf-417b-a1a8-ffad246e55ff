@@ -85,7 +85,7 @@ export default function LandingPage() {
           handle: "@localbiz",
           testimonial: "Our business relies on functional plumbing, and Epley Plumbing delivers every time. Their commercial service is unmatched.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/some-barbells-gym_23-2147671941.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/some-barbells-gym_23-2147671941.jpg?_wi=1",
           imageAlt: "professional male portrait smiling",
         },
         {
@@ -147,7 +147,7 @@ export default function LandingPage() {
         },
       ]}
       avatarText="See what our customers say"
-      imageSrc="http://img.b2bpic.net/free-photo/some-barbells-gym_23-2147671941.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/some-barbells-gym_23-2147671941.jpg?_wi=2"
       imageAlt="Epley Plumbing Co. service van parked in Gastonia, NC"
       showDimOverlay={true}
       showBlur={true}
