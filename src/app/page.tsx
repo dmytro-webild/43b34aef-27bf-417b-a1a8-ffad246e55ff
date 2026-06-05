@@ -92,7 +92,7 @@ export default function LandingPage() {
           src: "http://img.b2bpic.net/free-photo/happy-young-businessman-walking-near-business-center_171337-19784.jpg",          alt: "Customer 5"}
       ]}
       avatarText="See what our customers say"
-      imageSrc="http://img.b2bpic.net/free-photo/technician-checking-heating-system-boiler-room_169016-55519.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/technician-checking-heating-system-boiler-room_169016-55519.jpg?_wi=1"
       imageAlt="Plumber repairing a leaky pipe"
       showDimOverlay={true}
       showBlur={true}
@@ -106,7 +106,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       features={[
         {
-          tag: "Service",          title: "Plumbing Repairs",          subtitle: "Fixing leaks, drips, and burst pipes",          description: "Our experienced plumbers tackle all types of plumbing repairs, from minor drips to major pipe bursts, ensuring a lasting solution.",          imageSrc: "http://img.b2bpic.net/free-photo/technician-checking-heating-system-boiler-room_169016-55519.jpg",          imageAlt: "Plumber repairing a leaky pipe"},
+          tag: "Service",          title: "Plumbing Repairs",          subtitle: "Fixing leaks, drips, and burst pipes",          description: "Our experienced plumbers tackle all types of plumbing repairs, from minor drips to major pipe bursts, ensuring a lasting solution.",          imageSrc: "http://img.b2bpic.net/free-photo/technician-checking-heating-system-boiler-room_169016-55519.jpg?_wi=2",          imageAlt: "Plumber repairing a leaky pipe"},
         {
           tag: "Service",          title: "Drain Cleaning",          subtitle: "Clear blockages, restore flow",          description: "Professional drain cleaning services to remove stubborn clogs and restore proper drainage in your sinks, showers, and toilets.",          imageSrc: "http://img.b2bpic.net/free-photo/washbasin-hole_1339-1020.jpg",          imageAlt: "Plumber cleaning a clogged drain"},
         {
